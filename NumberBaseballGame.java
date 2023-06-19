@@ -50,7 +50,7 @@ public class NumberBaseballGame {
             } else {
                 System.out.println(strike + " strike, " + ball + " ball");
             }
-        }
+        }//
 
         scanner.close();
     }
@@ -67,3 +67,6 @@ public class NumberBaseballGame {
         return Integer.parseInt(input);
     }
 }
+
+
+//주석은 #이 아니라 //임
